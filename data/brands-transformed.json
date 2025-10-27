@@ -1,0 +1,172 @@
+[
+  {
+    "_id": "66069ff93007b006635c0245",
+    "brandName": "Ward, Hand and Ortiz",
+    "headquarters": "Jastside",
+    "numberOfLocations": 2132,
+    "yearFounded": 1970
+  },
+  {
+    "_id": "66069ff93007b006635c0246",
+    "brandName": "Ergonomic Frozen Bacon",
+    "yearFounded": 1600,
+    "headquarters": "Gavinstead",
+    "numberOfLocations": 1
+  },
+  {
+    "_id": "66069ff93007b006635c0247",
+    "brandName": "Breitenberg, Greenholt and Ledner",
+    "yearFounded": 1982,
+    "headquarters": "Fort Lenna",
+    "numberOfLocations": 1000
+  },
+  {
+    "_id": "66069ff93007b006635c0248",
+    "brandName": "Modern Granite Fish",
+    "yearFounded": 1970,
+    "headquarters": "Kundebury",
+    "numberOfLocations": 1
+  },
+  {
+    "_id": "66069ff93007b006635c0249",
+    "brandName": "Gorgeous Granite Pizza",
+    "headquarters": "Jonesborough",
+    "numberOfLocations": 1,
+    "yearFounded": 1980
+  },
+  {
+    "_id": "66069ff93007b006635c024a",
+    "brandName": "Oriental Plastic Pants",
+    "yearFounded": 1970,
+    "headquarters": "Wardfort",
+    "numberOfLocations": 1
+  },
+  {
+    "_id": "66069ff93007b006635c024b",
+    "brandName": "Refined Granite Towels",
+    "yearFounded": 1600,
+    "headquarters": "Lemkeland",
+    "numberOfLocations": 1
+  },
+  {
+    "_id": "66069ff93007b006635c024c",
+    "brandName": "Corkery Inc",
+    "yearFounded": 1935,
+    "numberOfLocations": 9200,
+    "headquarters": "DuBuqueburgh"
+  },
+  {
+    "_id": "66069ff93007b006635c024d",
+    "yearFounded": 1600,
+    "headquarters": "West Mylesboro",
+    "numberOfLocations": 1,
+    "brandName": "Licensed Concrete Tuna"
+  },
+  {
+    "_id": "66069ff93007b006635c024e",
+    "brandName": "Generic Cotton Pizza",
+    "yearFounded": 1600,
+    "headquarters": "North Ralphport",
+    "numberOfLocations": 1
+  },
+  {
+    "_id": "68ff5ec22260a3e9a418ea91",
+    "brandName": "Grant, Harber and Hansen",
+    "yearFounded": 1600,
+    "headquarters": "Port Susanacester",
+    "numberOfLocations": 100,
+    "createdAt": "2025-10-27T12:00:02.574Z",
+    "updatedAt": "2025-10-27T12:00:02.574Z",
+    "__v": 0
+  },
+  {
+    "_id": "68ff5ec22260a3e9a418ea93",
+    "brandName": "Mayer - Reichel",
+    "yearFounded": 1850,
+    "headquarters": "Port Marshall",
+    "numberOfLocations": 250,
+    "createdAt": "2025-10-27T12:00:02.584Z",
+    "updatedAt": "2025-10-27T12:00:02.584Z",
+    "__v": 0
+  },
+  {
+    "_id": "68ff5ec22260a3e9a418ea95",
+    "brandName": "Collier Inc",
+    "yearFounded": 1920,
+    "headquarters": "Fort Aaron",
+    "numberOfLocations": 500,
+    "createdAt": "2025-10-27T12:00:02.595Z",
+    "updatedAt": "2025-10-27T12:00:02.595Z",
+    "__v": 0
+  },
+  {
+    "_id": "68ff5ec22260a3e9a418ea97",
+    "brandName": "Barton - Koss",
+    "yearFounded": 1950,
+    "headquarters": "East Mckenzie",
+    "numberOfLocations": 1000,
+    "createdAt": "2025-10-27T12:00:02.603Z",
+    "updatedAt": "2025-10-27T12:00:02.603Z",
+    "__v": 0
+  },
+  {
+    "_id": "68ff5ec22260a3e9a418ea99",
+    "brandName": "Bradtke - Rice",
+    "yearFounded": 2000,
+    "headquarters": "Fort Mckenziehaven",
+    "numberOfLocations": 750,
+    "createdAt": "2025-10-27T12:00:02.611Z",
+    "updatedAt": "2025-10-27T12:00:02.611Z",
+    "__v": 0
+  },
+  {
+    "_id": "68ff5ec22260a3e9a418ea9b",
+    "brandName": "Kshlerin Group",
+    "yearFounded": 2025,
+    "headquarters": "Adriannaview",
+    "numberOfLocations": 50,
+    "createdAt": "2025-10-27T12:00:02.619Z",
+    "updatedAt": "2025-10-27T12:00:02.619Z",
+    "__v": 0
+  },
+  {
+    "_id": "68ff5ec22260a3e9a418ea9d",
+    "brandName": "Spinka, Quigley and Hoeger",
+    "yearFounded": 2010,
+    "headquarters": "Fontana",
+    "numberOfLocations": 1,
+    "createdAt": "2025-10-27T12:00:02.627Z",
+    "updatedAt": "2025-10-27T12:00:02.627Z",
+    "__v": 0
+  },
+  {
+    "_id": "68ff5ec22260a3e9a418ea9f",
+    "brandName": "Casper - Hagenes",
+    "yearFounded": 1980,
+    "headquarters": "West Judsonfield",
+    "numberOfLocations": 50,
+    "createdAt": "2025-10-27T12:00:02.635Z",
+    "updatedAt": "2025-10-27T12:00:02.635Z",
+    "__v": 0
+  },
+  {
+    "_id": "68ff5ec22260a3e9a418eaa1",
+    "brandName": "Lubowitz - Vandervort",
+    "yearFounded": 1975,
+    "headquarters": "Malden",
+    "numberOfLocations": 5000,
+    "createdAt": "2025-10-27T12:00:02.643Z",
+    "updatedAt": "2025-10-27T12:00:02.643Z",
+    "__v": 0
+  },
+  {
+    "_id": "68ff5ec22260a3e9a418eaa3",
+    "brandName": "Kris, Goldner and Schneider",
+    "yearFounded": 1965,
+    "headquarters": "Casper",
+    "numberOfLocations": 20000,
+    "createdAt": "2025-10-27T12:00:02.656Z",
+    "updatedAt": "2025-10-27T12:00:02.656Z",
+    "__v": 0
+  }
+]
